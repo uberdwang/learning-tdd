@@ -1,0 +1,17 @@
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/bin/Debug/netcoreapp2.1/GenericStacks.Tests.deps.json
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/bin/Debug/netcoreapp2.1/GenericStacks.Tests.runtimeconfig.json
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/bin/Debug/netcoreapp2.1/GenericStacks.Tests.runtimeconfig.dev.json
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/bin/Debug/netcoreapp2.1/GenericStacks.Tests.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/bin/Debug/netcoreapp2.1/GenericStacks.Tests.pdb
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/bin/Debug/netcoreapp2.1/GenericStacks.Library.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/bin/Debug/netcoreapp2.1/GenericStacks.Library.pdb
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/obj/Debug/netcoreapp2.1/GenericStacks.Tests.csprojAssemblyReference.cache
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/obj/Debug/netcoreapp2.1/GenericStacks.Tests.csproj.CoreCompileInputs.cache
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/obj/Debug/netcoreapp2.1/GenericStacks.Tests.AssemblyInfoInputs.cache
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/obj/Debug/netcoreapp2.1/GenericStacks.Tests.AssemblyInfo.cs
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/obj/Debug/netcoreapp2.1/GenericStacks.Tests.csproj.CopyComplete
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/obj/Debug/netcoreapp2.1/GenericStacks.Tests.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Tests/obj/Debug/netcoreapp2.1/GenericStacks.Tests.pdb

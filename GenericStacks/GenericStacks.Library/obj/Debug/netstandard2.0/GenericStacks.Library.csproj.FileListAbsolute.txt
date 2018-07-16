@@ -1,0 +1,9 @@
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Library/bin/Debug/netstandard2.0/GenericStacks.Library.deps.json
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Library/bin/Debug/netstandard2.0/GenericStacks.Library.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Library/bin/Debug/netstandard2.0/GenericStacks.Library.pdb
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Library/obj/Debug/netstandard2.0/GenericStacks.Library.csprojAssemblyReference.cache
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Library/obj/Debug/netstandard2.0/GenericStacks.Library.csproj.CoreCompileInputs.cache
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Library/obj/Debug/netstandard2.0/GenericStacks.Library.AssemblyInfoInputs.cache
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Library/obj/Debug/netstandard2.0/GenericStacks.Library.AssemblyInfo.cs
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Library/obj/Debug/netstandard2.0/GenericStacks.Library.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/GenericStacks/GenericStacks.Library/obj/Debug/netstandard2.0/GenericStacks.Library.pdb
