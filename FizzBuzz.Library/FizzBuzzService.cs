@@ -5,17 +5,26 @@ namespace FizzBuzz.Library
     public class FizzBuzzService
     {
         public string Print(int n) {
-            if (n % 5 == 0 && n % 3 == 0) {
+            if (IsDivisibleByFive(n) && IsDivisibleByThree(n)) {
                 return "FizzBuzz";
             }
-            else if (n % 5 == 0) {
+            else if (IsDivisibleByFive(n)) {
                 return "Buzz";
             }
-            else if (n % 3 == 0) {
+            else if (IsDivisibleByThree(n)) {
                 return "Fizz";
             } else {
                 return n.ToString();
             }
+        }
+
+        // refactor and extract repeated code
+        private bool IsDivisibleByThree(int n) {
+            return n % 3 == 0;
+        }
+
+        private bool IsDivisibleByFive(int n) {
+            return n % 5 == 0;
         }
     }
 }
