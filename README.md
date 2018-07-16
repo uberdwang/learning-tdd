@@ -6,8 +6,8 @@ Jasons goes over developing a FizzBuzz program with TDD.
 ## Running Unit Tests
 
 Go any of test the following directories and run:
--FizzBuzz.Tests
--Stacks.Tests
+- FizzBuzz.Tests
+- Stacks.Tests
 ```
 dotnet test
 ```
