@@ -1,6 +1,3 @@
-/Users/jm28667/workspace/learning/tdd/learning-tdd/FizzBuzz.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
-/Users/jm28667/workspace/learning/tdd/learning-tdd/FizzBuzz.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
-/Users/jm28667/workspace/learning/tdd/learning-tdd/FizzBuzz.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
 /Users/jm28667/workspace/learning/tdd/learning-tdd/FizzBuzz.Tests/bin/Debug/netcoreapp2.1/FizzBuzz.Tests.deps.json
 /Users/jm28667/workspace/learning/tdd/learning-tdd/FizzBuzz.Tests/bin/Debug/netcoreapp2.1/FizzBuzz.Tests.runtimeconfig.json
 /Users/jm28667/workspace/learning/tdd/learning-tdd/FizzBuzz.Tests/bin/Debug/netcoreapp2.1/FizzBuzz.Tests.runtimeconfig.dev.json
@@ -15,3 +12,6 @@
 /Users/jm28667/workspace/learning/tdd/learning-tdd/FizzBuzz.Tests/obj/Debug/netcoreapp2.1/FizzBuzz.Tests.csproj.CopyComplete
 /Users/jm28667/workspace/learning/tdd/learning-tdd/FizzBuzz.Tests/obj/Debug/netcoreapp2.1/FizzBuzz.Tests.dll
 /Users/jm28667/workspace/learning/tdd/learning-tdd/FizzBuzz.Tests/obj/Debug/netcoreapp2.1/FizzBuzz.Tests.pdb
+/Users/jm28667/workspace/learning/tdd/learning-tdd/FizzBuzz.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/FizzBuzz.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/FizzBuzz.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

@@ -2,7 +2,7 @@
 
 namespace FizzBuzz.Library
 {
-    public class FizzBuzzServices
+    public class FizzBuzzService
     {
         public string Print(int n) {
             return string.Empty;
