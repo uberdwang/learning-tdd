@@ -1,0 +1,17 @@
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/bin/Debug/netcoreapp2.1/ImmutableStack.Tests.deps.json
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/bin/Debug/netcoreapp2.1/ImmutableStack.Tests.runtimeconfig.json
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/bin/Debug/netcoreapp2.1/ImmutableStack.Tests.runtimeconfig.dev.json
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/bin/Debug/netcoreapp2.1/ImmutableStack.Tests.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/bin/Debug/netcoreapp2.1/ImmutableStack.Tests.pdb
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/bin/Debug/netcoreapp2.1/ImmutableStack.Library.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/bin/Debug/netcoreapp2.1/ImmutableStack.Library.pdb
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/obj/Debug/netcoreapp2.1/ImmutableStack.Tests.csprojAssemblyReference.cache
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/obj/Debug/netcoreapp2.1/ImmutableStack.Tests.csproj.CoreCompileInputs.cache
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/obj/Debug/netcoreapp2.1/ImmutableStack.Tests.AssemblyInfoInputs.cache
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/obj/Debug/netcoreapp2.1/ImmutableStack.Tests.AssemblyInfo.cs
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/obj/Debug/netcoreapp2.1/ImmutableStack.Tests.csproj.CopyComplete
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/obj/Debug/netcoreapp2.1/ImmutableStack.Tests.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Tests/obj/Debug/netcoreapp2.1/ImmutableStack.Tests.pdb

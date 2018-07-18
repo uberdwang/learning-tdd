@@ -1,0 +1,9 @@
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Library/bin/Debug/netstandard2.0/ImmutableStack.Library.deps.json
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Library/bin/Debug/netstandard2.0/ImmutableStack.Library.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Library/bin/Debug/netstandard2.0/ImmutableStack.Library.pdb
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Library/obj/Debug/netstandard2.0/ImmutableStack.Library.csprojAssemblyReference.cache
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Library/obj/Debug/netstandard2.0/ImmutableStack.Library.csproj.CoreCompileInputs.cache
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Library/obj/Debug/netstandard2.0/ImmutableStack.Library.AssemblyInfoInputs.cache
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Library/obj/Debug/netstandard2.0/ImmutableStack.Library.AssemblyInfo.cs
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Library/obj/Debug/netstandard2.0/ImmutableStack.Library.dll
+/Users/jm28667/workspace/learning/tdd/learning-tdd/ImmutableStack/ImmutableStack.Library/obj/Debug/netstandard2.0/ImmutableStack.Library.pdb
